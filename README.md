@@ -21,7 +21,7 @@ $ cd /bloco_de_notas/release
 $ sudo dpkg -i bloco-de-notas_0.1.0-1_amd64.deb
 
 # Caso haja dependências faltando, execute:
-$ ysudo apt-get install -f
+$ sudo apt-get install -f
 
 # No terminal digite o nome do aplicativo para usar
 $ bloco_de_notas
