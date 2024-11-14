@@ -31,21 +31,6 @@ $ bloco_de_notas &
 
 ```
 
-### 🎲 Rodando o Front-End
-
-```bash
-
-# Vá para a pasta web
-$ cd web
-
-# Instale as dependências
-$ yarn || npm i
-
-# Execute a aplicação em modo de desenvolvimento
-$ yarn dev || npm run dev
-
-```
-
 </br>
 
 <h1 align="center"> 
