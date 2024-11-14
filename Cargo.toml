@@ -1,0 +1,9 @@
+[package]
+name = "bloco_de_notas"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["Maria Eduarda de Araujo Alecrim"]
+
+[dependencies]
+gtk = "0.9"
